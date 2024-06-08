@@ -19,3 +19,4 @@ describe('Player', function() {
         assert.strictEqual(player.isAlive(), false);
     });
 });
+
