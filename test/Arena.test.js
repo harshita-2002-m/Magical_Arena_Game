@@ -14,4 +14,3 @@ describe('Arena', function() {
         assert(winner.isAlive());
     });
 });
-
